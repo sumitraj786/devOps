@@ -7,6 +7,8 @@
 3. Use any Python IDE such as VScode, PyCharm, Jupyter Notebook, Spyder, etc., or open a terminal and navigate to the file path. Then enter the command:
    ```bash
    python filename.py
+
+**Here is the glimpse of output after the execution of the script:**
 2024-04-22 23:26:28,702 - DEBUG - DEBUG message
 2024-04-22 23:26:29,703 - ERROR - ERROR message
 2024-04-22 23:26:30,705 - INFO - INFO message
