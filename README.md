@@ -9,14 +9,15 @@
    python filename.py
 
 **Here is the glimpse of output after the execution of the script:**
-2024-04-22 23:26:28,702 - DEBUG - DEBUG message
-2024-04-22 23:26:29,703 - ERROR - ERROR message
-2024-04-22 23:26:30,705 - INFO - INFO message
-2024-04-22 23:26:31,707 - DEBUG - DEBUG message
-2024-04-22 23:26:32,707 - DEBUG - DEBUG message
-2024-04-22 23:26:33,708 - DEBUG - DEBUG message
-2024-04-22 23:26:34,710 - INFO - INFO message
-2024-04-22 23:26:35,711 - DEBUG - DEBUG message
+
+2024-04-22 23:26:28,702 - DEBUG - DEBUG message  
+2024-04-22 23:26:29,703 - ERROR - ERROR message  
+2024-04-22 23:26:30,705 - INFO - INFO message  
+2024-04-22 23:26:31,707 - DEBUG - DEBUG message  
+2024-04-22 23:26:32,707 - DEBUG - DEBUG message  
+2024-04-22 23:26:33,708 - DEBUG - DEBUG message  
+2024-04-22 23:26:34,710 - INFO - INFO message  
+2024-04-22 23:26:35,711 - DEBUG - DEBUG message  
 
 Logging interrupted. Exiting.
 
