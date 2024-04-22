@@ -7,6 +7,7 @@
 3. Use any Python IDE such as VScode, PyCharm, Jupyter Notebook, Spyder, etc., or open a terminal and navigate to the file path. Then enter the command:
    ```bash
    python filename.py
+4. then the generated log records will be saved in app.log file (provided in the repository).
 
 **Here is the glimpse of output after the execution of the script:**
 
