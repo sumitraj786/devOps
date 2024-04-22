@@ -21,7 +21,7 @@
 
 Logging interrupted. Exiting.
 
-# Log Analysis Summary
+**Log Analysis Summary**
 ---------------------
 Total log entries: 8
 DEBUG count: 5
